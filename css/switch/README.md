@@ -1,0 +1,1 @@
+regroupe les pages css et html pour améliorer l'UX et l'UI
